@@ -12,9 +12,12 @@ to determine the following :
 ### I plotted the the results for: ###
 ### Average Temperature by Month ###
 ![Average Temperature by Month](output/Temp%20by%20Month.png)
+
 ### Average Pressure by Month ###
-Pressure is sorted in ascending order.
+<p>Pressure is sorted in ascending order.</p>
+
 ![Average Pressure by Month](output/Pressure%20by%20Month.png)
+
 ### Daily Temperature ###
 By exploring the length of time between the peaks in the plot for daily temperature I
 was able to estimate how may terrestrial days exist in a Martian year.
